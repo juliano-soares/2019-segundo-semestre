@@ -1,0 +1,22 @@
+Trabalho 2 - Modelagem e simulção
+
+nomes: Juliano Soares, Rafael Vales
+
+Parte 01
+
+- O tempo médio que os pedidos esperam na fila: 6,4 minutos
+- A taxa de ocupação dos funcionarios...: 
+	Segundo Funcionario: 45%.
+	Primeiro Funcionario: 64%.
+- O tamanho médio da fila: 0,52
+
+
+Parte 02
+
+- Custos relativos a cada funcionario:
+- Primeiro funcionario: Total = R$80,00 
+- Segundo Funcionario:  Total = R$95,04
+
+- Taxa de Ocupação:
+- Primeiro Funcionario: 78%
+- Segundo Funcionario:  75%
