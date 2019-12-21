@@ -1,0 +1,126 @@
+
+----------------------------------------------------------------------
+17162:RELONE
+Entidade: 2
+Um erro de simulação foi detectado no tempo  1.0 no seguinte bloco:
+
+ *    5 20$             RELEASE:Atendente,1:NEXT(0$);
+
+Tentativa de liberar recurso não ocupado Atendente.
+Não é possível liberar 1.0 unidades quando o número ocupado é 0.0.
+----------------------------------------------------------------------
+
+
+Controlador de execução do SIMAN.
+
+1.0 Minutos>
+                                      ARENA Simulation Results
+                                     juliano - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Atendimento de clientes                                     Data da execução :12/ 5/2019
+Analista: Centro de Tecnologia                                        Data de revisão do modelo:12/ 5/2019
+
+Replicação terminada no tempo de      : 1.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+chamadas.VATime                                 --         --         --         --          0
+chamadas.NVATime                                --         --         --         --          0
+chamadas.WaitTime                               --         --         --         --          0
+chamadas.TranTime                               --         --         --         --          0
+chamadas.OtherTime                              --         --         --         --          0
+chamadas.TotalTime                              --         --         --         --          0
+chamadas.VACost                                 --         --         --         --          0
+chamadas.NVACost                                --         --         --         --          0
+chamadas.WaitCost                               --         --         --         --          0
+chamadas.TranCost                               --         --         --         --          0
+chamadas.OtherCost                              --         --         --         --          0
+chamadas.TotalCost                              --         --         --         --          0
+Atendimento do primeiro tecnico.Queue.Wait      --         --         --         --          0
+Atendimento do primeiro tecnico.Queue.Wait      --         --         --         --          0
+Atendimento do terceiro tecnico.Queue.Wait      --         --         --         --          0
+Atendimento do terceiro tecnico.Queue.Wait      --         --         --         --          0
+Atendimento do segundo tecnico.Queue.Waiti      --         --         --         --          0
+Atendimento do segundo tecnico.Queue.Waiti      --         --         --         --          0
+Atendente faz a triagem.Queue.WaitingTime       --         --         --         --          0
+Atendente faz a triagem.Queue.WaitingCost       --         --         --         --          0
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+chamadas.WIP                                1.0000     (Insuf)    .00000     1.0000     1.0000    
+Atendente.NumberBusy                        .00000     (Insuf)    .00000     .00000     .00000    
+Atendente.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Atendente.Utilization                       .00000     (Insuf)    .00000     .00000     .00000    
+tecnico 2.NumberBusy                        .00000     (Insuf)    .00000     .00000     .00000    
+tecnico 2.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+tecnico 2.Utilization                       .00000     (Insuf)    .00000     .00000     .00000    
+tecnico 3.NumberBusy                        .00000     (Insuf)    .00000     .00000     .00000    
+tecnico 3.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+tecnico 3.Utilization                       .00000     (Insuf)    .00000     .00000     .00000    
+tecnico 1.NumberBusy                        .00000     (Insuf)    .00000     .00000     .00000    
+tecnico 1.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+tecnico 1.Utilization                       .00000     (Insuf)    .00000     .00000     .00000    
+Atendimento do primeiro tecnico.Queue.Numb  .00000     (Insuf)    .00000     .00000     .00000    
+Atendimento do terceiro tecnico.Queue.Numb  .00000     (Insuf)    .00000     .00000     .00000    
+Atendimento do segundo tecnico.Queue.Numbe  .00000     (Insuf)    .00000     .00000     .00000    
+Atendente faz a triagem.Queue.NumberInQueu  .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             CONTADORES
+
+Identificador                                    Limite Contagem
+_____________________________________________________________
+
+atendidas                                         0  Infinite
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+chamadas.NumberIn                           1.0000    
+chamadas.NumberOut                          .00000    
+Atendente.NumberSeized                      .00000    
+Atendente.ScheduledUtilization              .00000    
+Atendente.BusyCost                          .00000    
+Atendente.IdleCost                          .08333    
+Atendente.UsageCost                         .00000    
+tecnico 2.NumberSeized                      .00000    
+tecnico 2.ScheduledUtilization              .00000    
+tecnico 2.BusyCost                          .00000    
+tecnico 2.IdleCost                          .16667    
+tecnico 2.UsageCost                         .00000    
+tecnico 3.NumberSeized                      .00000    
+tecnico 3.ScheduledUtilization              .00000    
+tecnico 3.BusyCost                          .00000    
+tecnico 3.IdleCost                          .25000    
+tecnico 3.UsageCost                         .00000    
+tecnico 1.NumberSeized                      .00000    
+tecnico 1.ScheduledUtilization              .00000    
+tecnico 1.BusyCost                          .00000    
+tecnico 1.IdleCost                          .16667    
+tecnico 1.UsageCost                         .00000    
+All Entities.VACost                         .00000    
+All Entities.NVACost                        .00000    
+All Entities.WaitCost                       .00000    
+All Entities.TranCost                       .00000    
+All Entities.OtherCost                      .00000    
+All Entities.TotalCost                      .00000    
+All Resources.BusyCost                      .00000    
+All Resources.IdleCost                      .66667    
+All Resources.UsageCost                     .00000    
+All Resources.TotalCost                     .66667    
+System.TotalCost                            .66667    
+System.NumberOut                            .00000    
+
+
+Tempo executando a simulação: 0.32 minutos.
+Simulação completada com 1 erro(s) e 0 alerta(s).

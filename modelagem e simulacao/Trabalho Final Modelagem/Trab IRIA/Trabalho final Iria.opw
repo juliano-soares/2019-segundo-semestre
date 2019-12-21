@@ -1,0 +1,43 @@
+[RESOURCES]
+Funcionario AtendenteBalizador
+Hidratacao
+Funcionario LimpaCompHidratacao
+Funcionario LimpaMotorCera
+Funcionario LavagemExterna
+Estacionamento 1
+Funcionario LimpezaInterna
+[VARIABLES]
+Saida.NumberOut
+Hidratação?.NumberOut False
+Lavagem do Motor.NumberOut True
+Hidratação?.NumberOut True
+Lavagem do Motor.NumberOut False
+Cadastro.NumberIn
+Cadastro.NumberOut
+Limpeza de componentes internos.NumberOut
+Limpeza interna.NumberOut
+Limpeza de componentes internos.NumberIn
+Limpeza Interna?.NumberOut True
+Passar Aspirador?.NumberOut True
+Hidratacao de couro e estofados.NumberOut
+Limpeza Interna?.NumberOut False
+Lavagem.NumberOut
+Aspirador.NumberOut
+Chegada.NumberOut
+Limpeza do motor.NumberIn
+Limpeza do motor.NumberOut
+Lavagem Externa 1.NumberIn
+Lavagem Externa 1.NumberOut
+Aspirador.NumberIn
+Passar Aspirador?.NumberOut False
+Limpeza de Componentes internos?.NumberOut False
+Limpeza de Componentes internos?.NumberOut True
+Passar Cera?.NumberOut False
+Hidratacao de couro e estofados.NumberIn
+Limpeza interna.NumberIn
+Passar Cera.NumberOut
+Passar Cera.NumberIn
+Estacionamento.NumberIn
+Lavagem.NumberIn
+Estacionamento.NumberOut
+Passar Cera?.NumberOut True

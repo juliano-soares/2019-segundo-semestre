@@ -1,0 +1,16 @@
+[RESOURCES]
+Atendente
+tecnico 2
+tecnico 3
+tecnico 1
+[VARIABLES]
+Atendimento do terceiro tecnico.NumberIn
+Atendimento do segundo tecnico.NumberIn
+Fim das chamadas.NumberOut
+Atendimento do primeiro tecnico.NumberOut
+Atendimento do terceiro tecnico.NumberOut
+Atendimento das Chamadas.NumberOut
+Atendimento do segundo tecnico.NumberOut
+Atendimento do primeiro tecnico.NumberIn
+Atendente faz a triagem.NumberOut
+Atendente faz a triagem.NumberIn

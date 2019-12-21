@@ -1,0 +1,106 @@
+Controlador de execução do SIMAN.
+
+103.37029 Horas>
+                                      ARENA Simulation Results
+                                     juliano - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução :12/ 5/2019
+Analista: tan                                                         Data de revisão do modelo:12/ 5/2019
+
+Replicação terminada no tempo de      : 103.37029 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Cliente.VATime                              27.604     (Insuf)    26.454     28.527          3    
+Cliente.NVATime                             .00000     (Insuf)    .00000     .00000          3    
+Cliente.WaitTime                            24.271     (Insuf)    .00000     48.475          3    
+Cliente.TranTime                            .00000     (Insuf)    .00000     .00000          3    
+Cliente.OtherTime                           .00000     (Insuf)    .00000     .00000          3    
+Cliente.TotalTime                           51.876     (Insuf)    27.830     77.003          3    
+Passar Cera.Queue.WaitingTime               .00000     (Insuf)    .00000     .00000          2    
+Estacionamento.Queue.WaitingTime            .00000     (Insuf)    .00000     .00000          1    
+Aspirador.Queue.WaitingTime                     --         --         --         --          0
+Lavagem Externa 1.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          1    
+Limpeza de componentes internos.Queue.Wait      --         --         --         --          0
+Limpeza do motor.Queue.WaitingTime          .00000     (Insuf)    .00000     .00000          1    
+Hidratação de couro e estofados.Queue.Wait      --         --         --         --          0
+Cadastro.Queue.WaitingTime                  36.533     (Insuf)    .00000     73.320          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Cliente.WIP                                 24.059     (Insuf)    .00000     66.000     65.000    
+Limpeza de Motor.NumberBusy                 .00846     (Insuf)    .00000     1.0000     .00000    
+Limpeza de Motor.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Limpeza de Motor.Utilization                .00846     (Insuf)    .00000     1.0000     .00000    
+Lavagem Ext.NumberBusy                      .01072     (Insuf)    .00000     1.0000     .00000    
+Lavagem Ext.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Lavagem Ext.Utilization                     .01072     (Insuf)    .00000     1.0000     .00000    
+Cera.NumberBusy                             .02210     (Insuf)    .00000     1.0000     .00000    
+Cera.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Cera.Utilization                            .02210     (Insuf)    .00000     1.0000     .00000    
+Hidratacao.NumberBusy                       .00000     (Insuf)    .00000     .00000     .00000    
+Hidratacao.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Hidratacao.Utilization                      .00000     (Insuf)    .00000     .00000     .00000    
+Limpeza dos Componentes Internos.NumberBus  .00000     (Insuf)    .00000     .00000     .00000    
+Limpeza dos Componentes Internos.NumberSch  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Limpeza dos Componentes Internos.Utilizati  .00000     (Insuf)    .00000     .00000     .00000    
+Aspirador de Po.NumberBusy                  .00000     (Insuf)    .00000     .00000     .00000    
+Aspirador de Po.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Aspirador de Po.Utilization                 .00000     (Insuf)    .00000     .00000     .00000    
+Atendente de Cadastro.NumberBusy            .74848     (Insuf)    .00000     1.0000     1.0000    
+Atendente de Cadastro.NumberScheduled       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Atendente de Cadastro.Utilization           .74848     (Insuf)    .00000     1.0000     1.0000    
+Estacionado.NumberBusy                      .01126     (Insuf)    .00000     1.0000     .00000    
+Estacionado.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Estacionado.Utilization                     .01126     (Insuf)    .00000     1.0000     .00000    
+Estacionamento 1.NumberBusy                 .00000     (Insuf)    .00000     .00000     .00000    
+Estacionamento 1.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Estacionamento 1.Utilization                .00000     (Insuf)    .00000     .00000     .00000    
+Passar Cera.Queue.NumberInQueue             .00000     (Insuf)    .00000     .00000     .00000    
+Estacionamento.Queue.NumberInQueue          .00000     (Insuf)    .00000     .00000     .00000    
+Aspirador.Queue.NumberInQueue               .00000     (Insuf)    .00000     .00000     .00000    
+Lavagem Externa 1.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+Limpeza de componentes internos.Queue.Numb  .00000     (Insuf)    .00000     .00000     .00000    
+Limpeza do motor.Queue.NumberInQueue        .00000     (Insuf)    .00000     .00000     .00000    
+Hidratação de couro e estofados.Queue.Numb  .00000     (Insuf)    .00000     .00000     .00000    
+Cadastro.Queue.NumberInQueue                22.603     (Insuf)    .00000     63.000     62.000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Cliente.NumberIn                            68.000    
+Cliente.NumberOut                           3.0000    
+Limpeza de Motor.NumberSeized               1.0000    
+Limpeza de Motor.ScheduledUtilization       .00846    
+Lavagem Ext.NumberSeized                    1.0000    
+Lavagem Ext.ScheduledUtilization            .01072    
+Cera.NumberSeized                           2.0000    
+Cera.ScheduledUtilization                   .02210    
+Hidratacao.NumberSeized                     .00000    
+Hidratacao.ScheduledUtilization             .00000    
+Limpeza dos Componentes Internos.NumberSei  .00000    
+Limpeza dos Componentes Internos.Scheduled  .00000    
+Aspirador de Po.NumberSeized                .00000    
+Aspirador de Po.ScheduledUtilization        .00000    
+Atendente de Cadastro.NumberSeized          4.0000    
+Atendente de Cadastro.ScheduledUtilization  .74848    
+Estacionado.NumberSeized                    1.0000    
+Estacionado.ScheduledUtilization            .01126    
+Estacionamento 1.NumberSeized               .00000    
+Estacionamento 1.ScheduledUtilization       .00000    
+System.NumberOut                            3.0000    
+
+
+Tempo executando a simulação: 0.20 minutos.
+Simulação completada.

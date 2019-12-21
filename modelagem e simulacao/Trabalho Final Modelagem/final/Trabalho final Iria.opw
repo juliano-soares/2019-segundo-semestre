@@ -1,0 +1,49 @@
+[RESOURCES]
+Limpeza de Motor
+Lavagem Ext
+Cera
+Hidratacao
+Limpeza dos Componentes Internos
+Aspirador de Po
+Atendente de Cadastro
+Estacionado
+Estacionamento 1
+[VARIABLES]
+Saida.NumberOut
+Hidratação?.NumberOut False
+Lavagem do Motor.NumberOut True
+Hidratação?.NumberOut True
+Lavagem do Motor.NumberOut False
+Cadastro.NumberIn
+Cadastro.NumberOut
+Limpeza de componentes internos.NumberOut
+Limpeza interna.NumberOut
+Limpeza de componentes internos.NumberIn
+Limpeza Interna?.NumberOut True
+Passar Aspirador?.NumberOut True
+Hidratação de couro e estofados.NumberOut
+Limpeza Interna?.NumberOut False
+Lavagem.NumberOut
+Aspirador.NumberOut
+Chegada.NumberOut
+Limpeza do motor.NumberIn
+Limpeza do motor.NumberOut
+Vai Ficar estacionado?.NumberOut False
+Lavagem Externa 1.NumberIn
+Lavagem Externa 1.NumberOut
+Aspirador.NumberIn
+Vai Ficar estacionado?.NumberOut True
+Passar Aspirador?.NumberOut False
+Limpeza de Componentes internos?.NumberOut False
+Limpeza de Componentes internos?.NumberOut True
+Passar Cera?.NumberOut False
+Hidratação de couro e estofados.NumberIn
+Lavagem Externa?.NumberOut False
+Limpeza interna.NumberIn
+Lavagem Externa?.NumberOut True
+Passar Cera.NumberOut
+Passar Cera.NumberIn
+Estacionamento.NumberIn
+Lavagem.NumberIn
+Estacionamento.NumberOut
+Passar Cera?.NumberOut True

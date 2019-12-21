@@ -1,0 +1,50 @@
+[RESOURCES]
+Window Teller
+Nancy
+Recepcionista e balisador
+limpador interno
+limpador de componentes e hidratacao
+encerador e lavador de motor
+lavador
+Judy
+[VARIABLES]
+Hidratacao do Couro ou Estofados.WaitTime
+Enceramento.WaitTime
+Decide 6.NumberOut False
+Decide 3.NumberOut False
+Decide 1.NumberOut False
+Entrada Lavagem.NumberOut
+Hidratacao do Couro ou Estofados.VATime
+Rua.NumberOut
+Hidratacao do Couro ou Estofados.NumberIn
+Patio do Estacionamento.VATime
+Limpeza Componentes Internos.NumberIn
+Hidratacao do Couro ou Estofados.NumberOut
+Limpeza Componentes Internos.NumberOut
+Patio do Estacionamento.NumberIn
+Recepcao Cadastro.VATime
+Limpeza Componentes Internos.WaitTime
+Enceramento.NumberIn
+Aspirador de Po.NumberIn
+Enceramento.NumberOut
+Aspirador de Po.VATime
+Limpeza Motor.WaitTime
+Aspirador de Po.NumberOut
+Lavagem Externa.VATime
+Lavagem Externa.NumberOut
+Patio do Estacionamento.WaitTime
+Patio do Estacionamento.NumberOut
+Lavagem Externa.WaitTime
+Limpeza Motor.NumberOut
+Limpeza Componentes Internos.VATime
+Aspirador de Po.WaitTime
+Limpeza Motor.NumberIn
+Enceramento.VATime
+Recepcao Cadastro.WaitTime
+Limpeza Motor.VATime
+Lavagem Externa.NumberIn
+Recepcao Cadastro.NumberOut
+Recepcao Cadastro.NumberIn
+Decide 6.NumberOut True
+Decide 3.NumberOut True
+Decide 1.NumberOut True

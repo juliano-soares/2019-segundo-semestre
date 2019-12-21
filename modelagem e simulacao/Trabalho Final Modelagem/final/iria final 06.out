@@ -1,0 +1,173 @@
+
+                                      ARENA Simulation Results
+                                     juliano - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Banking Transactions                                        Data da execução :12/ 6/2019
+Analista: Rockwell Automation                                         Data de revisão do modelo:12/ 6/2019
+
+Replicação terminada no tempo de      : 480.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Hidratacao do Couro ou Estofados.WaitTimeP  .00000     (Insuf)    .00000     .00000          1    
+Limpeza Motor.WaitTimePerEntity                 --         --         --         --          0
+Aspirador de Po.VATimePerEntity             15.605     (Insuf)    8.4608     25.898         15    
+Limpeza Componentes Internos.WaitTimePerEn  .00000     (Insuf)    .00000     .00000          2    
+Recepcao Cadastro.VATimePerEntity           3.1822     (Insuf)    1.8811     4.0762          3    
+Limpeza Componentes Internos.TotalTimePerE  7.8117     (Insuf)    5.4493     10.174          2    
+Aspirador de Po.TotalTimePerEntity          18.653     (Insuf)    9.2246     44.739         15    
+Aspirador de Po.WaitTimePerEntity           3.0485     (Insuf)    .00000     23.768         15    
+Enceramento.VATimePerEntity                 9.8241     (Insuf)    8.8020     11.070          3    
+Limpeza Motor.TotalTimePerEntity                --         --         --         --          0
+Recepcao Cadastro.TotalTimePerEntity        6.2968     (Insuf)    1.8811     12.933          3    
+Hidratacao do Couro ou Estofados.VATimePer  11.747     (Insuf)    11.747     11.747          1    
+Limpeza Componentes Internos.VATimePerEnti  7.8117     (Insuf)    5.4493     10.174          2    
+Lavagem Externa.TotalTimePerEntity          53.191     (Insuf)    10.453     85.728         17    
+Patio do Estacionamento.WaitTimePerEntity   1.7013     (Insuf)    .00000     11.006         16    
+Enceramento.WaitTimePerEntity               .00000     (Insuf)    .00000     .00000          3    
+Patio do Estacionamento.TotalTimePerEntity  19.073     (Insuf)    7.6744     31.049         16    
+Hidratacao do Couro ou Estofados.TotalTime  11.747     (Insuf)    11.747     11.747          1    
+Enceramento.TotalTimePerEntity              9.8241     (Insuf)    8.8020     11.070          3    
+Recepcao Cadastro.WaitTimePerEntity         3.1146     (Insuf)    .00000     9.3438          3    
+Lavagem Externa.WaitTimePerEntity           29.072     (Insuf)    .00000     58.173         17    
+Patio do Estacionamento.VATimePerEntity     17.372     (Insuf)    7.6744     31.049         16    
+Limpeza Motor.VATimePerEntity                   --         --         --         --          0
+Lavagem Externa.VATimePerEntity             24.118     (Insuf)    10.453     36.788         17    
+DriveCustomer.VATime                        58.925     (Insuf)    43.927     77.491         16    
+DriveCustomer.NVATime                       .00000     (Insuf)    .00000     .00000         16    
+DriveCustomer.WaitTime                      32.640     (Insuf)    .00000     82.754         16    
+DriveCustomer.TranTime                      32.200     (Insuf)    28.250     41.693         16    
+DriveCustomer.OtherTime                     .00000     (Insuf)    .00000     .00000         16    
+DriveCustomer.TotalTime                     123.76     (Insuf)    80.625     165.77         16    
+ATM Customer.VATime                             --         --         --         --          0
+ATM Customer.NVATime                            --         --         --         --          0
+ATM Customer.WaitTime                           --         --         --         --          0
+ATM Customer.TranTime                           --         --         --         --          0
+ATM Customer.OtherTime                          --         --         --         --          0
+ATM Customer.TotalTime                          --         --         --         --          0
+TellerCustomer.VATime                           --         --         --         --          0
+TellerCustomer.NVATime                          --         --         --         --          0
+TellerCustomer.WaitTime                         --         --         --         --          0
+TellerCustomer.TranTime                         --         --         --         --          0
+TellerCustomer.OtherTime                        --         --         --         --          0
+TellerCustomer.TotalTime                        --         --         --         --          0
+Hidratacao do Couro ou Estofados.Queue.Wai  .00000     (Insuf)    .00000     .00000          1    
+Limpeza Motor.Queue.WaitingTime                 --         --         --         --          0
+Limpeza Componentes Internos.Queue.Waiting  .00000     (Insuf)    .00000     .00000          2    
+Patio do Estacionamento.Queue.WaitingTime   1.7013     (Insuf)    .00000     11.006         16    
+Lavagem Externa.Queue.WaitingTime           29.072     (Insuf)    .00000     58.173         17    
+Enceramento.Queue.WaitingTime               .00000     (Insuf)    .00000     .00000          3    
+Aspirador de Po.Queue.WaitingTime           3.0485     (Insuf)    .00000     23.768         15    
+Recepcao Cadastro.Queue.WaitingTime         3.1146     (Insuf)    .00000     9.3438          3    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+DriveCustomer.WIP                           4.3998     (Insuf)    .00000     7.0000     2.0000    
+ATM Customer.WIP                            .00000     (Insuf)    .00000     .00000     .00000    
+TellerCustomer.WIP                          .00000     (Insuf)    .00000     .00000     .00000    
+Window Teller.NumberBusy                    .00000     (Insuf)    .00000     .00000     .00000    
+Window Teller.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Window Teller.Utilization                   .00000     (Insuf)    .00000     .00000     .00000    
+Nancy.NumberBusy                            .00000     (Insuf)    .00000     .00000     .00000    
+Nancy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Nancy.Utilization                           .00000     (Insuf)    .00000     .00000     .00000    
+Recepcionista e balisador.NumberBusy        .59897     (Insuf)    .00000     1.0000     .00000    
+Recepcionista e balisador.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Recepcionista e balisador.Utilization       .59897     (Insuf)    .00000     1.0000     .00000    
+limpador interno.NumberBusy                 .48766     (Insuf)    .00000     1.0000     .00000    
+limpador interno.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+limpador interno.Utilization                .48766     (Insuf)    .00000     1.0000     .00000    
+limpador de componentes e hidratacao.Numbe  .03255     (Insuf)    .00000     1.0000     .00000    
+limpador de componentes e hidratacao.Numbe  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+limpador de componentes e hidratacao.Utili  .03255     (Insuf)    .00000     1.0000     .00000    
+encerador e lavador de motor.NumberBusy     .06140     (Insuf)    .00000     1.0000     .00000    
+encerador e lavador de motor.NumberSchedul  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+encerador e lavador de motor.Utilization    .06140     (Insuf)    .00000     1.0000     .00000    
+lavador.NumberBusy                          .85421     (Insuf)    .00000     1.0000     .00000    
+lavador.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+lavador.Utilization                         .85421     (Insuf)    .00000     1.0000     .00000    
+Judy.NumberBusy                             .02447     (Insuf)    .00000     1.0000     .00000    
+Judy.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Judy.Utilization                            .02447     (Insuf)    .00000     1.0000     .00000    
+Hidratacao do Couro ou Estofados.Queue.Num  .00000     (Insuf)    .00000     .00000     .00000    
+Limpeza Motor.Queue.NumberInQueue           .00000     (Insuf)    .00000     .00000     .00000    
+Limpeza Componentes Internos.Queue.NumberI  .00000     (Insuf)    .00000     .00000     .00000    
+Patio do Estacionamento.Queue.NumberInQueu  .05671     (Insuf)    .00000     1.0000     .00000    
+Lavagem Externa.Queue.NumberInQueue         1.0296     (Insuf)    .00000     3.0000     .00000    
+Enceramento.Queue.NumberInQueue             .00000     (Insuf)    .00000     .00000     .00000    
+Aspirador de Po.Queue.NumberInQueue         .09527     (Insuf)    .00000     1.0000     .00000    
+Recepcao Cadastro.Queue.NumberInQueue       .01947     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Hidratacao do Couro ou Estofados Accum Wai  .00000    
+Enceramento Accum Wait Time                 .00000    
+Hidratacao do Couro ou Estofados Accum VA   11.747    
+Hidratacao do Couro ou Estofados Number In  1.0000    
+Patio do Estacionamento Accum VA Time       277.95    
+Limpeza Componentes Internos Number In      2.0000    
+Hidratacao do Couro ou Estofados Number Ou  1.0000    
+Limpeza Componentes Internos Number Out     2.0000    
+Patio do Estacionamento Number In           16.000    
+Recepcao Cadastro Accum VA Time             9.5467    
+Limpeza Componentes Internos Accum Wait Ti  .00000    
+Enceramento Number In                       3.0000    
+Aspirador de Po Number In                   15.000    
+Enceramento Number Out                      3.0000    
+Aspirador de Po Accum VA Time               234.07    
+Limpeza Motor Accum Wait Time               .00000    
+Aspirador de Po Number Out                  15.000    
+Lavagem Externa Accum VA Time               410.02    
+Lavagem Externa Number Out                  17.000    
+Patio do Estacionamento Accum Wait Time     27.222    
+Patio do Estacionamento Number Out          16.000    
+Lavagem Externa Accum Wait Time             494.24    
+Limpeza Motor Number Out                    .00000    
+Limpeza Componentes Internos Accum VA Time  15.623    
+Aspirador de Po Accum Wait Time             45.728    
+Limpeza Motor Number In                     .00000    
+Enceramento Accum VA Time                   29.472    
+Recepcao Cadastro Accum Wait Time           9.3438    
+Limpeza Motor Accum VA Time                 .00000    
+Lavagem Externa Number In                   17.000    
+Recepcao Cadastro Number Out                3.0000    
+Recepcao Cadastro Number In                 3.0000    
+DriveCustomer.NumberIn                      18.000    
+DriveCustomer.NumberOut                     16.000    
+ATM Customer.NumberIn                       .00000    
+ATM Customer.NumberOut                      .00000    
+TellerCustomer.NumberIn                     .00000    
+TellerCustomer.NumberOut                    .00000    
+Window Teller.NumberSeized                  .00000    
+Window Teller.ScheduledUtilization          .00000    
+Nancy.NumberSeized                          .00000    
+Nancy.ScheduledUtilization                  .00000    
+Recepcionista e balisador.NumberSeized      19.000    
+Recepcionista e balisador.ScheduledUtiliza  .59897    
+limpador interno.NumberSeized               15.000    
+limpador interno.ScheduledUtilization       .48766    
+limpador de componentes e hidratacao.Numbe  2.0000    
+limpador de componentes e hidratacao.Sched  .03255    
+encerador e lavador de motor.NumberSeized   3.0000    
+encerador e lavador de motor.ScheduledUtil  .06140    
+lavador.NumberSeized                        17.000    
+lavador.ScheduledUtilization                .85421    
+Judy.NumberSeized                           1.0000    
+Judy.ScheduledUtilization                   .02447    
+System.NumberOut                            16.000    
+
+
+Tempo executando a simulação: 0.35 minutos.
+Simulação completada.
